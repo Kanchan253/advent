@@ -1,0 +1,17 @@
+rock 1   X
+paper 2  Y
+scissors 3 Z
+
+for oppo
+A rock
+B paper
+C scissors
+
+if we win , we get 6 points 
+if it is draw, we get 3 points
+and upon losing , 0 points 
+
+Part 2:
+A Y=X Y means draw
+B X=X X means lose
+C Z=X Z means win
